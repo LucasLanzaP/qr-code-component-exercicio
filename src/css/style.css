@@ -1,0 +1,40 @@
+body{
+    background-color: var(--cor-clara);
+    font-family: 'Outfit', sans-serif;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 0 13px;
+}
+
+.cartao{
+    max-width: 290px;
+    background-color: var(--branco);
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.cartao .image-qr .code-qr{
+    width: 100%;
+    justify-content: flex-start;
+    border-radius: 10px;
+}
+
+.cartao .improve{
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    text-align: center;
+    padding: 15px 0;
+}
+
+.cartao .scan{
+    text-align: center;
+    font-size: 15px;
+    color: var(--cor-media);
+    padding-bottom: 15px;
+}
