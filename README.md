@@ -23,4 +23,4 @@ Para fazer esse exercício utilizei os conhecimentos adquiridos no curso DevQues
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@LucasLanzaP](https://www.frontendmentor.io/profile/LucasLanzaP)
